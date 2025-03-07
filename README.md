@@ -6,11 +6,13 @@ This project is a mobile-based AR first-person shooting (FPS) game developed as 
 ## Below are some in-game screenshots illustrating the gameplay experience:
 
 ### 1. Player searching zombies
-<img src="doc/gameplay_figure1.jpg" alt="Gameplay Figure 1" width="500">
+<img src="doc/gameplay_figure1.jpg" alt="Gameplay Figure 1" width="400">
+
 ### 2. Player encountering zombies
-<img src="doc/gameplay_figure2.jpg" alt="Gameplay Figure 2" width="500">
+<img src="doc/gameplay_figure2.jpg" alt="Gameplay Figure 2" width="400">
+
 ### 3. Player shooting zombies
-<img src="doc/gameplay_figure3.jpg" alt="Gameplay Figure 3" width="500">
+<img src="doc/gameplay_figure3.jpg" alt="Gameplay Figure 3" width="400">
 
 ## Features
 - **World-scale AR FPS gameplay** with real-world mapping.
